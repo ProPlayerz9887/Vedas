@@ -1,0 +1,8 @@
+Vedas API is an integrated database open API which enables to access Ancient Indian Vedas by their addresses
+This API provides us with the hindi translation as well as the original shukta or shlokas
+To get started with this api, you have to input given parameters to access the data
+bookname/bookid = The Book name from which the data should be collected, example - Mahabharat, RigVeda, ect
+chapterID = The Chapter in which the shloka must be found
+Sukta/Partition = The Partition you finally want to access
+
+
